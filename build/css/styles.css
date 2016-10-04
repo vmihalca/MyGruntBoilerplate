@@ -1,0 +1,25 @@
+body {
+  background: #d8007c;
+  color: #24cc4b;
+}
+button {
+  background: #004f9f;
+}
+div {
+  background: #6F3596;
+}
+h2 {
+  font-style: italic;
+}
+a {
+  font-size: 12px;
+}
+
+h1 {
+  background: #d8007c;
+  color: 24px;
+}
+div {
+  background: #d8007c;
+  text-decoration: none;
+}

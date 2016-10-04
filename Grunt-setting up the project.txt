@@ -1,0 +1,30 @@
+Setting up the project
+
+    Install Node.js
+    Open Node.js command line in "html" folder
+    Run the following commands:
+	npm install -g grunt-cli
+	npm init (inside the project folder) json file
+	npm install -S grunt
+	npm install (install node_modules)
+
+//plugins&dependecies
+        npm install grunt --save-dev
+	npm install grunt-contrib-less --save-dev
+        npm install grunt-contrib-watch --save-dev
+        
+        
+    In order to start the UI Project run grunt command
+
+    http://gruntjs.com/getting-started
+	
+
+
+https://www.youtube.com/watch?v=TMKj0BxzVgw
+https://gist.github.com/trey/6679792
+http://gruntjs.com/plugins
+https://www.jetbrains.com/help/webstorm/2016.2/using-grunt-task-runner.html
+
+
+to make sure that you have Node and npm installed, 
+go into your command line and type node -v and npm -v
